@@ -8,7 +8,7 @@ Ich interessiere mich für Programmierung und Problemlösung.
 |----------------|------|
 | [Harvard CS50 – Introduction to Computer Science](https://cs50.harvard.edu/x/) | 2026 |
 
-[![CS50x Badge](https://raw.githubusercontent.com/artur-lukas/artur-lukas/main/badges/cs50x-badge.png)](https://www.credly.com/badges/4e7bbaca-0e53-46fa-ae0e-92b7dac0c2fc)
+[![CS50x Badge](https://raw.githubusercontent.com/artur-lukas/artur-lukas/main/cs50x-badge.png)](https://www.credly.com/badges/4e7bbaca-0e53-46fa-ae0e-92b7dac0c2fc)
 
 
 ## Projekte
