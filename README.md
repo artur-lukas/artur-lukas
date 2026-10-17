@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, ich bin Artur!
 
-<!--
-**artur-lukas/artur-lukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich interessiere mich für Programmierung und Problemlösung.
 
-Here are some ideas to get you started:
+## Zertifizierungen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Zertifizierung | Jahr |
+|----------------|------|
+| [Harvard CS50 – Introduction to Computer Science](https://cs50.harvard.edu/x/) | 2025 |
+
+![CS50 Badge](./assets/cs50-badge.png)
+
+## Projekte
+
+| Projekt | Beschreibung |
+|---------|--------------|
+| [CS50 Projects](https://github.com/artur-lukas/cs50-projects) | Komplette Lösungen für alle 10 Problem Sets (C, Python, SQL) |
