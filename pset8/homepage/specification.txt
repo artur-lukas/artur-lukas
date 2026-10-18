@@ -1,0 +1,4 @@
+HTML tags: <head>, <body>, <h1>, <main>, <p>, <img>, <footer>, <nav>, <ul>, <li>, <div>
+CSS properties: background-color, color, font-size, text-align, margin
+Description JavaScript: i used it to check if the Multiple Choice questions are answered correctly
+Description Bootstrap: i used the class "rounded" round my pictures a bit

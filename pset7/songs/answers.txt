@@ -1,0 +1,11 @@
+1.prints every "name"(name of a song) from the table "songs"(all songs).
+2.prints every "name" from the table "songs", ordered by the tempo.
+3.prints the "name" of 5 songs from the table "songs", ordered by the duration.
+4.prints every "name" from the table "songs" where the "danceability",
+  "energy" and "valence" are greater than 0.75.
+5.prints the average "energy" of all songs from the table "songs".
+6.prints every "name" from the table "songs" where the "artist_id" is equal
+  to the "id" from the table "artists" where the "name" is Post Malone.
+7.joins the tabels "songs" and "artists" toghter where the "songs.artist_id" and "artists.id" is equal
+  and prints the average "energy" from the table "songs" where the "artists.name" is Drake.
+8.prints every "name" from the table "songs" where the name contains "feat.".

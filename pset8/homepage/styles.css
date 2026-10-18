@@ -1,0 +1,44 @@
+
+
+body {
+    background-color: #161616;
+    color: #dddddd;
+}
+
+.player{
+    background-color: #161616;
+    color: #dddddd;
+}
+
+.header{
+    text-align: center;
+    background-color: #161616;
+    color: #dddddd;
+    font-size: 67px;
+}
+
+.links {
+    background-color: #000040;
+    color: lightblue;
+    text-align: left;
+}
+
+.image{
+    margin-left: 33px;
+}
+
+.text{
+    margin: 30px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.main_image {
+    display: block;
+    max-width: 100%;
+    margin: 20px auto;
+}
+
+.Quiz {
+    margin: 33px;
+}

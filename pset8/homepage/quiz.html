@@ -1,0 +1,95 @@
+<html lang="en">
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+        <link href="styles.css" rel="stylesheet">
+        <title>My Webpage</title>
+    </head>
+    <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                let correct = document.querySelectorAll('.correct');
+                for (let i = 0; i < correct.length; i++) {
+                    correct[i].addEventListener('click', function() {
+                        correct[i].style.backgroundColor = 'green';
+                    });
+                };
+
+                let incorrects = document.querySelectorAll('.incorrect');
+                for (let i= 0; i < incorrects.length; i++) {
+                    incorrects[i].addEventListener('click', function() {
+                        incorrects[i].style.backgroundColor = 'red';
+                    });
+                };
+            });
+    </script>
+    <body>
+        <h1 class="header">Quiz</h1>
+        <main class="Quiz">
+        <div>
+            <h2>In which city on Madeira was Cristiano Ronaldo born?</h2>
+                <button class="incorrect">Rosario</button>
+                <button class="incorrect">Porto</button>
+                <button class="correct">Funchal</button>
+                <button class="incorrect">Lisbon</button>
+        </div>
+        <div>
+            <h2>Which current club is Lionel Messi under contract with?</h2>
+                <button class="incorrect">FC Barcelona</button>
+                <button class="incorrect">Paris Saint-Germain</button>
+                <button class="correct">Inter Miami</button>
+                <button class="incorrect">Al-Nassr</button>
+        </div>
+        <div>
+            <h2>Which of these clubs is one of Lionel Messi’s former clubs?</h2>
+                <button class="incorrect">Manchester United</button>
+                <button class="incorrect">Sporting CP</button>
+                <button class="incorrect">Juventus</button>
+                <button class="correct">Paris Saint-Germain</button>
+        </div>
+        <div>
+            <h2>In which year did Cristiano Ronaldo win the UEFA European Championship with Portugal?</h2>
+                <button class="incorrect">2012</button>
+                <button class="incorrect">2014</button>
+                <button class="correct">2016</button>
+                <button class="incorrect">2022</button>
+        </div>
+        <div>
+            <h2>Which of the two players is two years older according to the profile?</h2>
+                <button class="incorrect">Lionel Messi</button>
+                <button class="correct">Cristiano Ronaldo</button>
+        </div>
+        <div>
+            <h2>What style of play or abilities is Lionel Messi particularly known for according to the profile?</h2>
+                <button class="correct">Dribbling, close ball control, passing, and free kicks</button>
+                <button class="incorrect">Heading ability and quick sprints</button>
+                <button class="incorrect">Long throw-ins and defensive work</button>
+                <button class="incorrect">Powerful long-range shots and physical strength in duels</button>
+        </div>
+        <div>
+            <h2>Which club did Cristiano Ronaldo NOT play for during his career?</h2>
+                <button class="incorrect">Juventus</button>
+                <button class="correct">Paris Saint-Germain</button>
+                <button class="incorrect">Sporting CP</button>
+                <button class="incorrect">Real Madrid</button>
+        </div>
+        <div>
+            <h2>Which major international title is listed in Lionel Messi’s profile for the year 2022?</h2>
+                <button class="correct">FIFA World Cup Champion</button>
+                <button class="incorrect">UEFA European Champion</button>
+                <button class="incorrect">Champions League Winner</button>
+                <button class="incorrect">Premier League Champion</button>
+        </div>
+        </main>
+        <footer>
+          <nav class="links">
+             <ul>
+              <li><a href="index.html">Home</a></li>
+                <li><a href="Ronaldo.html">Ronaldo</a></li>
+                <li><a href="Messi.html">Messi</a></li>
+                <li><a href="quiz.html">Quiz</a></li>
+             </ul>
+           </nav>
+        </footer>
+    </body>
+
+</html>
