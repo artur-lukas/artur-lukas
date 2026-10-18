@@ -28,4 +28,4 @@ Ich interessiere mich für Programmierung.
 | 7 | SQL | SQL | [Code](https://github.com/arturl-lukas/cs50-projects/tree/main/pset7) |
 | 8 | HTML, CSS, JavaScript | HTML, JavaScript | [Code](https://github.com/arturl-lukas/cs50-projects/tree/main/pset8) |
 | 9 | Flask | Python | [Code](https://github.com/arturl-lukas/cs50-projects/tree/main/pset9) |
-| 10 | The End | End | [Code](https://github.com/arturl-lukas/cs50-projects/tree/main/pset10) |
+| 10 | The End | C | [Code](https://github.com/arturl-lukas/cs50-projects/tree/main/pset10) |
