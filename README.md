@@ -20,12 +20,12 @@ Ich interessiere mich für Programmierung.
 | # | Titel | Sprache | Lösung |
 |---|-------|---------|--------|
 | 1 | C | C | [Code](https://github.com/artur-lukas/artur-lukas/tree/main/pset1) |
-| 2 | Arrays | C | [Code](https://github.com/artur-lukas/main/pset2) |
-| 3 | Algorithms | C | [Code](https://github.com/artur-lukas/main/pset3) |
-| 4 | Memory | C | [Code](https://github.com/artur-lukas/main/pset4) |
-| 5 | Data Structurs | C | [Code](https://github.com/artur-lukas/main/pset5) |
-| 6 | Python | Python | [Code](https://github.com/artur-lukas/main/pset6) |
-| 7 | SQL | SQL | [Code](https://github.com/artur-lukas/main/pset7) |
-| 8 | HTML, CSS, JavaScript | HTML, JavaScript | [Code](https://github.com/artur-lukas/main/pset8) |
-| 9 | Flask | Python | [Code](https://github.com/artur-lukas/main/pset9) |
-| 10 | The End(Finales Projekt) | C | [Code](https://github.com/artur-lukas/main/pset10) |
+| 2 | Arrays | C | [Code](https://github.com/artur-lukas/artur-lukas/tree/main/pset2) |
+| 3 | Algorithms | C | [Code](https://github.com/artur-lukas/artur-lukas/tree/main/pset3) |
+| 4 | Memory | C | [Code](https://github.com/artur-lukas/artur-lukas/tree/main/pset4) |
+| 5 | Data Structures | C | [Code](https://github.com/artur-lukas/artur-lukas/tree/main/pset5) |
+| 6 | Python | Python | [Code](https://github.com/artur-lukas/artur-lukas/tree/main/pset6) |
+| 7 | SQL | SQL | [Code](https://github.com/artur-lukas/artur-lukas/tree/main/pset7) |
+| 8 | HTML, CSS, JavaScript | HTML, JavaScript | [Code](https://github.com/artur-lukas/artur-lukas/tree/main/pset8) |
+| 9 | Flask | Python | [Code](https://github.com/artur-lukas/artur-lukas/tree/main/pset9) |
+| 10 | The End (Finales Projekt) | C | [Code](https://github.com/artur-lukas/artur-lukas/tree/main/pset10/final_project) |
