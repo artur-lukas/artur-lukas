@@ -4,15 +4,29 @@ Ich interessiere mich für Programmierung und Problemlösung.
 
 ## Zertifizierungen
 
-| Badge | Zertifizierung | Jahr |
-|-------|----------------|------|
-| [![CS50x Badge](https://raw.githubusercontent.com/artur-lukas/artur-lukas/main/cs50x-badge.png)](https://www.credly.com/badges/4e7bbaca-0e53-46fa-ae0e-92b7dac0c2fc) | [Harvard CS50 – Introduction to Computer Science](https://cs50.harvard.edu/x/) | 2026 |
+<p align="center">
+  <a href="https://www.credly.com/badges/4e7bbaca-0e53-46fa-ae0e-92b7dac0c2fc">
+    <img src="https://raw.githubusercontent.com/artur-lukas/artur-lukas/main/cs50-badge.png" alt="CS50 Badge" width="180">
+  </a>
+</p>
 
+<p align="center">
+  <strong>Harvard CS50 – Introduction to Computer Science</strong><br>
+  Abgeschlossen: 2026 · <a href="https://cs50.harvard.edu/x/">Zertifikat verifizieren</a>
+</p>
 
+## Problem Sets
 
-
-## Projekte
-
-| Projekt | Beschreibung |
-|---------|--------------|
-| [CS50 Projects](https://github.com/artur-lukas/cs50-projects) | Komplette Lösungen für alle 10 Problem Sets (C, Python, SQL) |
+| # | Titel | Sprache | Beschreibung |
+|---|-------|---------|--------------|
+| 0 | Hello, World | C | Erste Schritte in C |
+| 1 | Cash | C | Geldberechnung, Floating-Point |
+| 2 | Mario | C | ASCII-Pyramide |
+| 3 | Substitution | C | Kryptographie (Substitutions-Chiffre) |
+| 4 | Readability | C | Lesbarkeitsindex (Flesch-Kincaid) |
+| 5 | Plurals | C | Pluralisierung mit Regex |
+| 6 | Runes | C | Unicode & Byte-Manipulation |
+| 7 | Music | C | Audio-Synthese |
+| 8 | Mario (Python) | Python | Portierung nach Python |
+| 9 | DNA | Python | Genom-Sequenzierung |
+| 10 | Aperture | SQL | Datenbank-Query |
