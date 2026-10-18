@@ -19,7 +19,7 @@ Ich interessiere mich für Programmierung.
 
 | # | Titel | Sprache | Lösung |
 |---|-------|---------|--------|
-| 1 | C | C | [Code](https://github.com/arturl-lukas/main/pset1) |
+| 1 | C | C | [Code](https://raw.githubusercontent.com/arturl-lukas/main/pset1) |
 | 2 | Arrays | C | [Code](https://github.com/arturl-lukas/main/pset2) |
 | 3 | Algorithms | C | [Code](https://github.com/arturl-lukas/main/pset3) |
 | 4 | Memory | C | [Code](https://github.com/arturl-lukas/main/pset4) |
