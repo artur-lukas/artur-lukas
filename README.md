@@ -19,14 +19,13 @@ Ich interessiere mich für Programmierung.
 
 | # | Titel | Sprache | Beschreibung |
 |---|-------|---------|--------------|
-| 0 | Hello, World | C | Erste Schritte in C |
-| 1 | Cash | C | Geldberechnung, Floating-Point |
-| 2 | Mario | C | ASCII-Pyramide |
-| 3 | Substitution | C | Kryptographie (Substitutions-Chiffre) |
-| 4 | Readability | C | Lesbarkeitsindex (Flesch-Kincaid) |
-| 5 | Plurals | C | Pluralisierung mit Regex |
-| 6 | Runes | C | Unicode & Byte-Manipulation |
-| 7 | Music | C | Audio-Synthese |
-| 8 | Mario (Python) | Python | Portierung nach Python |
-| 9 | DNA | Python | Genom-Sequenzierung |
-| 10 | Aperture | SQL | Datenbank-Query |
+| 1 | C | C | Geldberechnung, Floating-Point |
+| 2 | Arrays | C | ASCII-Pyramide |
+| 3 | Algorithms | C | Kryptographie (Substitutions-Chiffre) |
+| 4 | Memory | C | Lesbarkeitsindex (Flesch-Kincaid) |
+| 5 | Data Structurs | C | Pluralisierung mit Regex |
+| 6 | Python | Python | Unicode & Byte-Manipulation |
+| 7 | SQL | SQL | Audio-Synthese |
+| 8 | HTML, CSS, JavaScript | HTML, JavaScript | Portierung nach Python |
+| 9 | Flask | Python | Genom-Sequenzierung |
+| 10 | The End | End | Datenbank-Query |
