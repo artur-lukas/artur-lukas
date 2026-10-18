@@ -1,6 +1,6 @@
 # Hi, ich bin Artur!
 
-Ich interessiere mich für Programmierung und Problemlösung.
+Ich interessiere mich für Programmierung.
 
 ## Zertifizierungen
 
