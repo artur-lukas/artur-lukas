@@ -28,4 +28,4 @@ Ich interessiere mich für Programmierung.
 | 7 | SQL | SQL | [Code](https://github.com/artur-lukas/artur-lukas/tree/main/pset7) |
 | 8 | HTML, CSS, JavaScript | HTML, JavaScript | [Code](https://github.com/artur-lukas/artur-lukas/tree/main/pset8) |
 | 9 | Flask | Python | [Code](https://github.com/artur-lukas/artur-lukas/tree/main/pset9) |
-| 10 | The End (Finales Projekt) | C | [Code](https://github.com/artur-lukas/artur-lukas/tree/main/pset10/final_project) |
+| 10 | The End (Finales Projekt) | C | [Code](https://github.com/artur-lukas/artur-lukas/tree/main/pset_10/final_project) |
