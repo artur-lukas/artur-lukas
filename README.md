@@ -6,7 +6,7 @@ Ich interessiere mich für Programmierung und Problemlösung.
 
 <p align="center">
   <a href="https://www.credly.com/badges/4e7bbaca-0e53-46fa-ae0e-92b7dac0c2fc">
-    <img src="https://raw.githubusercontent.com/artur-lukas/artur-lukas/main/cs50x-bage.1.png" alt="CS50 Badge" width="180">
+    <img src="https://raw.githubusercontent.com/artur-lukas/artur-lukas/main/cs50x-bage.1.png" alt="CS50 Badge">
   </a>
 </p>
 
